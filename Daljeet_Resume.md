@@ -1,5 +1,5 @@
-* Daljeet Singh
-*** C-404, Krishna Apra Saphire, Indirapuram, Ghaziabaad (UP)    
+** Daljeet Singh
+*** Indirapuram, Ghaziabaad (UP)    
 *** 9910069813    
 *** daljeet.singh123@gmail.com
 
@@ -7,28 +7,28 @@
 
 Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development and system analysis. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.His current assignment involves creating a web driver for selenium for Andorid native applications and an action recorder for recording UI tests for black box testing.  
                                                
-*** Experience: 10 years (4 years Freelance)
+** Experience:
 
-Bqurious Software			May-2013-july 2014
-Skillnet inc  				Dec-2011-May 2013	                                                                                                                                                             Infogain India Pvt Limited		Jan 2011 – Nov 2011
-Bebo Technologies     Aug-2010-Dec2010
-Freelance 				    May 2006-Dec 2010  
+ Total : 10 years 
+
+| Company Name               | Start Data | End Data  | Duration  |
+|----------------------------+------------+-----------+-----------|
+| HCL Technologies           | July-2014  | current   | 2 years   |
+| Bqurious Software          | May-2013   | july 2014 | 1.5 years |
+| Skillnet Inc               | Dec-2011   | May 2013  | 2 years   |
+| Infogain India Pvt Limited | Jan 2011   | Nov 2011  | 11 Months |
+| Bebo Technologies          | Aug-2010   | Dec2010   | 4 months  |
+| Freelance                  | May 2006   | Dec 2010  | 4 years   |
 
 ** Skills
 
-Operating Systems:
-Deployments on Red Hat Linux /Development on Arch linux
-Databases:
-Oracle 11g , MongoDb
-Languages and Technologies:
-Java,java-script, clojure, scala
-J2EE, Swing, json, XML,spring, hibernate
-Application/Web Servers
-Weblogic, Tomcat, jetty
-Editors/IDE:
-Emacs/ Vim, Eclipse for Java 
-Version Control Systems
- git , mercurial
+| Operating Systems       | Deployments on Red Hat Linux /Development on Arch linux |
+| Databases               | Oracle 11g , MongoDb                                    |
+| Languages               | Java,java-script, clojure, scala                        |
+| Technologies            | J2EE, Swing, json, XML,spring, hibernate                |
+| Application Servers     | Weblogic, Tomcat, jetty                                 |
+| Editors/IDE             | Emacs/ Vim, Eclipse for Java                            |
+| Version Control Systems | git , mercurial                                         |
 
 ** Projects
 
@@ -54,18 +54,6 @@ As a System Analyst responsibilities included supporting migration of Data, Reco
 **** Environment: 
 Technologies:  Servlets, EJB, XML, SIM 13.2.1, Weblogic, Spring batch framework, quartz scheduler, Oracle ActiveMQ
 
-*** Vodafone Romania SIM Integration 
-
-SIM integration with Oracle Inventory Development and customization of an Enterprise Application Integration (EAI) framework for Integration of SIM with Oracle inventory. This EAI framework (internally named StoreHub) was developed on the lines of RIB which used JMS publish/subscribe queues and a staging Database as an Integration Layer. This Integration layer used the polling timer framework already present in SIM. Store Hub also uses Spring Batch framework for inserting records from the staging database to the JMS queue.
-
-**** Responsibilities :
-
-As a System Analyst responsibilities included development and review of java code, Debugging and resolving bugs related to Integration of SIM with Oracle Inventory. 
-
-**** Environment:
- 
-Technologies:  Servlets, EJB, XML, SIM 13.2.1, Weblogic, Spring Batch framework, quartz scheduler, Oracle ActiveMQ
-
 *** Fedex FPOS
 It is a swing based KIOSK application with skinnable and resolution independent look and feel. The major work revolves around designing of screens using rich GUI features for kiosk.
 
@@ -74,7 +62,6 @@ As a Sr. Software Engg. responsibilities include the analysis of requirements, c
 
 **** Environment:
 Technologies: Java, Swing , synth Look and Feel, MIG layout.
-
 
 
 *** GWT Widgets
@@ -87,7 +74,6 @@ As a Software Engineer responsibilities include the analysis of requirements, de
 Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
 
 
-
 *** Ecopolis Board Game
 This is a dice and board game similar to monopoly where users can sell and buy property, This game has a theme based on environment conservation and aims to teach students various benefits of using renewable energy resources.This is a multi player network game, It also supports game rooms according to location of a user.
 
@@ -96,7 +82,6 @@ As a freelancer responsibilities include bidding, the analysis of requirements, 
 
 **** Environment:
 Technologies: Java, Swing, jna(java native Access), swinglabs, Apache Mina Server, serialization 
-
 
 
 *** Pocekvidz (Pockect Videos)
@@ -137,15 +122,18 @@ Technologies: J2me, jsp, servlets, tomcat, xml, syncML client, funambol(sync4j)
 
 ** Education
 
-B.Tech. from PTU(Punjab Technical University) Jalandhar.
+| Degree  | Board                                      | year | Percentage |
+|---------+--------------------------------------------+------+------------|
+| B.Tech. | PTU(Punjab Technical University) Jalandhar | 2008 |       64.2 |
+| 12th    | CBSE Board                                 | 2000 |         62 |
+| 10th    | CBSE Board                                 | 1998 |         76 |
 
-Personal Details
-Date of birth	               	       3rd June 1982
-Marital status			        Single
-Nationality			        Indian
-Languages known	                     English, Hindi, Punjabi
-Passport Number                              H9966746 (valid upto 28-Mar-2020)
-PAN no	           		        BVLPS1660K
+** Personal Details
+| Date of birth   | 3rd June 1982                     |
+| Marital status  | Single                            |
+| Nationality     | Indian                            |
+| Languages       | English, Hindi, Punjabi           |
+| Passport Number | H9966746 (valid upto 28-Mar-2020) |
 
 ** Hobbies 
 
