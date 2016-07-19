@@ -27,8 +27,8 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 | *Languages*               | Java,java-script, clojure, scala                        |     
 | *Technologies*            | J2EE, Swing, json, XML,spring, hibernate                |     
 | *Application Servers*     | Weblogic, Tomcat, jetty                                 |     
-| *Editors/IDE*             | Emacs/ Vim, Eclipse for Java                            |     
-| *Version Control Systems* | git , mercurial                                         | 
+| *Editors/IDE*             | Emacs, Vim, Eclipse                                     |     
+| *Version Control Systems* | git, mercurial                                          | 
 
 ** Projects
 
@@ -122,7 +122,7 @@ Technologies: J2me, jsp, servlets, tomcat, xml, syncML client, funambol(sync4j)
 
 ** Education
 
-| *Degree*  | *Board*                                    | *year* | *Percentage* |
+| *Degree*  | *Board*                                    | *Year* | *Percentage* |
 |-----------+--------------------------------------------+--------+--------------|
 | *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
 | *12th*    | CBSE Board                                 |   2000 |           62 |
@@ -130,7 +130,7 @@ Technologies: J2me, jsp, servlets, tomcat, xml, syncML client, funambol(sync4j)
 
 ** Personal Details
 | *Date of birth*   | 3rd June 1982                     |
-| *Marital status*  | Single                            |
+| *Marital Status*  | Single                            |
 | *Nationality*     | Indian                            |
 | *Languages*       | English, Hindi, Punjabi           |
 | *Passport Number* | H9966746 (valid upto 28-Mar-2020) |
