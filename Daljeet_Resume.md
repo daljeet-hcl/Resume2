@@ -11,24 +11,24 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 
  Total : 10 years 
 
-| Company Name               | Start Data | End Data  | Duration  |
-|----------------------------+------------+-----------+-----------|
-| HCL Technologies           | July-2014  | current   | 2 years   |
-| Bqurious Software          | May-2013   | july 2014 | 1.5 years |
-| Skillnet Inc               | Dec-2011   | May 2013  | 2 years   |
-| Infogain India Pvt Limited | Jan 2011   | Nov 2011  | 11 Months |
-| Bebo Technologies          | Aug-2010   | Dec2010   | 4 months  |
-| Freelance                  | May 2006   | Dec 2010  | 4 years   |
+| *Company Name*               | *Start Data* | *End Data* | *Duration* |
+|------------------------------+--------------+------------+------------|
+| *HCL Technologies*           | July-2014    | current    | 2 years    |
+| *Bqurious Software*          | May-2013     | july 2014  | 1.5 years  |
+| *Skillnet Inc*               | Dec-2011     | May 2013   | 2 years    |
+| *Infogain India Pvt Limited* | Jan 2011     | Nov 2011   | 11 Months  |
+| *Bebo Technologies*          | Aug-2010     | Dec2010    | 4 months   |
+| *Freelance*                  | May 2006     | Dec 2010   | 4 years    |
 
 ** Skills
 
-| Operating Systems       | Deployments on Red Hat Linux /Development on Arch linux |
-| Databases               | Oracle 11g , MongoDb                                    |
-| Languages               | Java,java-script, clojure, scala                        |
-| Technologies            | J2EE, Swing, json, XML,spring, hibernate                |
-| Application Servers     | Weblogic, Tomcat, jetty                                 |
-| Editors/IDE             | Emacs/ Vim, Eclipse for Java                            |
-| Version Control Systems | git , mercurial                                         |
+| *Operating Systems*       | Deployments on Red Hat Linux /Development on Arch linux |     
+| *Databases*               | Oracle 11g , MongoDb                                    |     
+| *Languages*               | Java,java-script, clojure, scala                        |     
+| *Technologies*            | J2EE, Swing, json, XML,spring, hibernate                |     
+| *Application Servers*     | Weblogic, Tomcat, jetty                                 |     
+| *Editors/IDE*             | Emacs/ Vim, Eclipse for Java                            |     
+| *Version Control Systems* | git , mercurial                                         | 
 
 ** Projects
 
@@ -122,18 +122,18 @@ Technologies: J2me, jsp, servlets, tomcat, xml, syncML client, funambol(sync4j)
 
 ** Education
 
-| Degree  | Board                                      | year | Percentage |
-|---------+--------------------------------------------+------+------------|
-| B.Tech. | PTU(Punjab Technical University) Jalandhar | 2008 |       64.2 |
-| 12th    | CBSE Board                                 | 2000 |         62 |
-| 10th    | CBSE Board                                 | 1998 |         76 |
+| *Degree*  | *Board*                                    | *year* | *Percentage* |
+|-----------+--------------------------------------------+--------+--------------|
+| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
+| *12th*    | CBSE Board                                 |   2000 |           62 |
+| *10th*    | CBSE Board                                 |   1998 |           76 |
 
 ** Personal Details
-| Date of birth   | 3rd June 1982                     |
-| Marital status  | Single                            |
-| Nationality     | Indian                            |
-| Languages       | English, Hindi, Punjabi           |
-| Passport Number | H9966746 (valid upto 28-Mar-2020) |
+| *Date of birth*   | 3rd June 1982                     |
+| *Marital status*  | Single                            |
+| *Nationality*     | Indian                            |
+| *Languages*       | English, Hindi, Punjabi           |
+| *Passport Number* | H9966746 (valid upto 28-Mar-2020) |
 
 ** Hobbies 
 
