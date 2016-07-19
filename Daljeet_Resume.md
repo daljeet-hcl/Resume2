@@ -1,7 +1,11 @@
-** Daljeet Singh
-*** Indirapuram, Ghaziabaad (UP)    
-*** 9910069813    
-*** daljeet.singh123@gmail.com
+## Daljeet Singh 
+
+** Contact 
+
+| *Name *   | Daljeet Singh                |
+| *Address* | Indirapuram, Ghaziabaad (UP) |
+| *Phone*   | 9910069813                   |
+| *Email*   | daljeet.singh123@gmail.com   |
 
 ** Summary
 
@@ -62,7 +66,6 @@ As a Sr. Software Engg. responsibilities include the analysis of requirements, c
 
 **** Environment:
 Technologies: Java, Swing , synth Look and Feel, MIG layout.
-
 
 *** GWT Widgets
 This work involved Building of widgets in GWT for an Enterprise Corporate Legal Software. The   widgets built had to be integrated with the provided web services and also integrated with already developed JSP pages.
