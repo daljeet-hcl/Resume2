@@ -1,8 +1,8 @@
 ** Contact Details 
 
 | *Name*    | Daljeet Singh                |
-| *Phone*   |                              |
-| *Email*   |                              |
+| *Phone*   | +91-9910069813               |
+| *Email*   | daljeet.singh123@gmail.com   |
 | *Address* | Indirapuram, Ghaziabaad (UP) |
 
 ** Summary
@@ -35,7 +35,13 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 ** Projects
 
 *** PrideGlobal 
-Nodejs Rest API development, with mongo DB backend.
+Human Resource Management System, with below  Features :
+- Requisition Management 
+- Candidate Management
+- Supplier Management 
+
+**** Technolgies
+MEAN stack (mongoDB, expressJS, Angular and Nodejs ). Rest API development, with mongo DB backend.
 Test driven development using Mocha.
 
 *** HCL Practice 1.5 years
@@ -73,7 +79,6 @@ As a Software Engineer responsibilities include the analysis of requirements, de
 
 **** Environment:
 Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
-
 
 ** Education
 
