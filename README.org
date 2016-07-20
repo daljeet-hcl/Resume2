@@ -1,10 +1,12 @@
 ** Contact Details 
 
-| *Name*    | Daljeet Singh                |
-| *Phone*   | +91-9910069813               |
-| *Email*   | daljeet.singh123@gmail.com   |
-| *Address* | Indirapuram, Ghaziabaad (UP) |
-
+| *Name*        | Daljeet Singh                |
+| *Phone*       | +91-9910069813               |
+| *Email*       | daljeets@hcl.com             |
+| *Email 2*     | daljeet.singh123@gmail.com   |
+| *SAP ID*      | 51511961                     |
+| *Address*     | Indirapuram, Ghaziabaad (UP) |
+|               |                              |
 ** Summary
 
 Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
