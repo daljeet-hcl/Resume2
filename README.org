@@ -1,3 +1,4 @@
+#+TITLE: Daljeet Singh
 
 ** Contact Details 
 
@@ -11,6 +12,8 @@
 ** Summary
 
 Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
+
+I am a Functional Programming and  LISP(Clojure) Enthusiast. 
 
 ** Skills
 
@@ -45,14 +48,6 @@ Human Resource Management System, with below  Features :
 - Supplier Management 
 - Client Management
 
-**** Technolgies
- - MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
- - REST API development
- - With mongo DB backend
- - logging using jackson
- - jwt security
- - Test Driven Development using Mocha.
-
 **** Responsibilities
  - Code review and quality enhancement with following considerations
    - Maintainability and preciseness of code  
@@ -63,12 +58,23 @@ Human Resource Management System, with below  Features :
  - Coding the core areas, and performance enhancement
  - Managing git workflow. 
 
+**** Environment
+ - MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
+ - REST API development
+ - With mongo DB backend
+ - logging using jackson
+ - jwt security
+ - Test Driven Development using Mocha.
+
 
 *** Pangea Analytics Platform
-- REST APIs in Java/Spring boot
-- Deployment Diagrams using PlantUML
-- Scala and Spark 
-- Managing a Hadoop Cluster.
+
+**** Responsibilities
+1. REST APIs in Java/Spring boot
+2. Deployment Diagrams using PlantUML
+3. Managing a Hadoop Cluster.
+4. Scala and Spark  
+
 *** 4D Trajectory POC Aero Domain
 - 2 patents filed, both patents sent for filing in US after filing in India last year.
 - 4d trajectory demo successfully completed using JavaScript and Google maps. 
@@ -123,7 +129,7 @@ Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
 
 ** Hobbies 
 
-- Takes keen interest in reading web-logs and articles related to computer science and information technology.
-- He solves puzzles and riddles in his free time.
-- Linux/emacs/vim freak 
- 
+1. Takes keen interest in reading web-logs and articles related to computer science and information technology.
+2. He solves puzzles and riddles in his free time.
+3. Linux/emacs/vim freak 
+4. lisp/clojure enthusiast 
