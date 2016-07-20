@@ -1,15 +1,13 @@
-## Daljeet Singh 
+** Contact Details 
 
-** Contact 
-
-| *Name *   | Daljeet Singh                |
-| *Address* | Indirapuram, Ghaziabaad (UP) |
+| *Name*    | Daljeet Singh                |
 | *Phone*   | 9910069813                   |
 | *Email*   | daljeet.singh123@gmail.com   |
+| *Address* | Indirapuram, Ghaziabaad (UP) |
 
 ** Summary
 
-Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development and system analysis. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.His current assignment involves creating a web driver for selenium for Andorid native applications and an action recorder for recording UI tests for black box testing.  
+Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development . Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
                                                
 ** Experience:
 
@@ -26,13 +24,21 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 
 ** Skills
 
-| *Operating Systems*       | Deployments on Red Hat Linux /Development on Arch linux |     
-| *Databases*               | Oracle 11g , MongoDb                                    |     
 | *Languages*               | Java,java-script, clojure, scala                        |     
+| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                   |     
+| *Databases*               | Oracle 11g , MongoDb                                    |     
 | *Technologies*            | J2EE, Swing, json, XML,spring, hibernate                |     
 | *Application Servers*     | Weblogic, Tomcat, jetty                                 |     
 | *Editors/IDE*             | Emacs, Vim, Eclipse                                     |     
 | *Version Control Systems* | git, mercurial                                          | 
+
+** Education
+
+| *Degree*  | *Board*                                    | *Year* | *Percentage* |
+|-----------+--------------------------------------------+--------+--------------|
+| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
+| *12th*    | CBSE Board                                 |   2000 |           62 |
+| *10th*    | CBSE Board                                 |   1998 |           76 |
 
 ** Projects
 
@@ -85,51 +91,6 @@ As a freelancer responsibilities include bidding, the analysis of requirements, 
 
 **** Environment:
 Technologies: Java, Swing, jna(java native Access), swinglabs, Apache Mina Server, serialization 
-
-
-*** Pocekvidz (Pockect Videos)
- It is video download service where a user subscribes to a certain number of channels, These videos are downloaded to the mobile phone of the user when the phone is idle. The software notifies the user when the videos are available for watching.
-
-**** Responsibilities:
-As a freelancer responsibilities include bidding, the analysis of requirements, design and architecture, coding, documentation, client interaction, designing of UI framework, R&D.
-
-**** Environment:
-Technologies: J2me, xml, RSS
-
-*** J2me RSS based news Reader
- An RSS Reader for j2me based phones where users can optionally use their Google account user credentials to log in, and view their subscribed RSS feed. This reader integrates with reader.google.com such that subscribers can continue using Google reader while they are on the move. The project was developed in 2007 when Google had not yet provided an RSS reader for j2me devices.  
-
-**** Responsibilities:
-As a freelancer responsibilities include bidding, the analysis of requirements, design and architecture, coding, documentation, client interaction, designing of UI framework, R&D.
-
-**** Environment:
- Technologies: Java, J2me, xml
-
-*** J2me Rubik’s Cube
-A 3D Rubik’s cube simulator for mobile phones those are capable of running java. The Rubik's Cube is a 3D mechanical puzzle invented in 1974 by  Ernő Rubik. A simulator was developed to replicate its behaviour in software. There are options to customize the Look and Feel of the cube by using images.
-
-**** Responsibilities:
-As a freelancer responsibilities include bidding, the analysis of requirements, design and architecture, coding, documentation, client interaction, designing of UI framework, R&D.
-
-**** Environment:
-Technologies: J2me, jsr-184(M3G)
-
-*** Mobially 
-A spring framework based web application to synchronize phone data like contacts calendar items over the network so that the data is preserved in case the phone is lost or damaged. This application uses funambol (previously known as sync4j) as the back end.
-
-**** Responsibilities:
-As a freelancer responsibilities include the analysis of requirements, design document, coding, designing of UI framework, R&D.
-
-**** Environment:
-Technologies: J2me, jsp, servlets, tomcat, xml, syncML client, funambol(sync4j)
-
-** Education
-
-| *Degree*  | *Board*                                    | *Year* | *Percentage* |
-|-----------+--------------------------------------------+--------+--------------|
-| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
-| *12th*    | CBSE Board                                 |   2000 |           62 |
-| *10th*    | CBSE Board                                 |   1998 |           76 |
 
 ** Personal Details
 | *Date of birth*   | 3rd June 1982                     |
