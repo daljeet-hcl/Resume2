@@ -7,7 +7,17 @@
 
 ** Summary
 
-Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development . Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
+Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
+
+** Skills
+
+| *Languages*               | Java, Java-script, Clojure, Scala                       |     
+| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                   |     
+| *Databases*               | Oracle 11g , MongoDb                                    |     
+| *Technologies*            | J2EE, Swing, spring, hibernate                          |     
+| *Application Servers*     | Weblogic, Tomcat, jetty                                 |     
+| *Editors/IDE*             | Emacs, Vim, Eclipse                                     |     
+| *Version Control Systems* | git, mercurial                                          | 
                                                
 ** Experience:
 
@@ -21,24 +31,6 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 | *Infogain India Pvt Limited* | Jan 2011     | Nov 2011   | 11 Months  |
 | *Bebo Technologies*          | Aug-2010     | Dec2010    | 4 months   |
 | *Freelance*                  | May 2006     | Dec 2010   | 4 years    |
-
-** Skills
-
-| *Languages*               | Java,java-script, clojure, scala                        |     
-| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                   |     
-| *Databases*               | Oracle 11g , MongoDb                                    |     
-| *Technologies*            | J2EE, Swing, json, XML,spring, hibernate                |     
-| *Application Servers*     | Weblogic, Tomcat, jetty                                 |     
-| *Editors/IDE*             | Emacs, Vim, Eclipse                                     |     
-| *Version Control Systems* | git, mercurial                                          | 
-
-** Education
-
-| *Degree*  | *Board*                                    | *Year* | *Percentage* |
-|-----------+--------------------------------------------+--------+--------------|
-| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
-| *12th*    | CBSE Board                                 |   2000 |           62 |
-| *10th*    | CBSE Board                                 |   1998 |           76 |
 
 ** Projects
 
@@ -83,24 +75,22 @@ As a Software Engineer responsibilities include the analysis of requirements, de
 Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
 
 
-*** Ecopolis Board Game
-This is a dice and board game similar to monopoly where users can sell and buy property, This game has a theme based on environment conservation and aims to teach students various benefits of using renewable energy resources.This is a multi player network game, It also supports game rooms according to location of a user.
+** Education
 
-**** Responsibilities:
-As a freelancer responsibilities include bidding, the analysis of requirements, design and architecture, coding, documentation, client interaction, designing of UI framework, R&D.
-
-**** Environment:
-Technologies: Java, Swing, jna(java native Access), swinglabs, Apache Mina Server, serialization 
+| *Degree*  | *Board*                                    | *Year* | *Percentage* |
+|-----------+--------------------------------------------+--------+--------------|
+| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
+| *12th*    | CBSE Board                                 |   2000 |           62 |
+| *10th*    | CBSE Board                                 |   1998 |           76 |
 
 ** Personal Details
 | *Date of birth*   | 3rd June 1982                     |
-| *Marital Status*  | Single                            |
 | *Nationality*     | Indian                            |
 | *Languages*       | English, Hindi, Punjabi           |
-| *Passport Number* | H9966746 (valid upto 28-Mar-2020) |
 
 ** Hobbies 
 
 - Takes keen interest in reading web-logs and articles related to computer science and information technology.
 - He solves puzzles and riddles in his free time.
+- Linux/emacs/vim freak 
  
