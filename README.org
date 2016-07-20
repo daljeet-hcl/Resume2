@@ -1,3 +1,4 @@
+
 ** Contact Details 
 
 | *Name*        | Daljeet Singh                |
@@ -13,14 +14,15 @@ Highly talented persistent and accomplished IT professional offering 10 years of
 
 ** Skills
 
-| *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android  |
-| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                       |
-| *Databases*               | Oracle 11g , MongoDb                                        |
-| *Technologies*            | J2EE, Swing, spring, hibernate                              |
-| *Application Servers*     | Weblogic, Tomcat, jetty                                     |
-| *Editors/IDE*             | Emacs, Vim, Eclipse                                         |
-| *Version Control Systems* | git, mercurial                                              |
-
+| *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
+| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
+| *Databases*               | Oracle 11g , MongoDb                                       |
+| *Technologies*            | J2EE, Swing, spring, hibernate                             |
+| *Application Servers*     | Weblogic, Tomcat, jetty                                    |
+| *Editors/IDE*             | Emacs, Vim, Eclipse                                        |
+| *Version Control Systems* | git, mercurial                                             |
+| *Diagramming Tools*       | PlantUML                                                   |
+|                           |                                                            |
 ** Experience:
 
  Total : 10 years 
@@ -59,13 +61,20 @@ Human Resource Management System, with below  Features :
  - Setting up test case framework
  - Evaluation and classibfication of Bugs/Enhancements 
  - Coding the core areas, and performance enhancement
- - Managing git workflow.
+ - Managing git workflow. 
 
-*** HCL Practice 1.5 years
-2 patents filed, both patents sent for filing in US after filing in India last year.
-4d trajectory demo successfully completed using JavaScript and Google maps. 
+
+*** Pangea Analytics Platform
+- REST APIs in Java/Spring boot
+- Deployment Diagrams using PlantUML
+- Scala and Spark 
+- Managing a Hadoop Cluster.
+*** 4D Trajectory POC Aero Domain
+- 2 patents filed, both patents sent for filing in US after filing in India last year.
+- 4d trajectory demo successfully completed using JavaScript and Google maps. 
 **** Environment
-TypeScript, Javascript, Google Maps API.
+     TypeScript, Javascript, Google Maps API
+
 
 *** Product development :
 developed a web driver for native application for the android platform. Also developed a recorder for recording all user interactions with a chosen application. All user interactions are mapped to predefined keywords. These keywords are converted to executable code at run-time using the data driven approach for user interface testing. 
