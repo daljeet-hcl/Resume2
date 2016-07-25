@@ -1,14 +1,24 @@
-#+TITLE: Daljeet Singh
-#+OPTIONS: toc:nil 
-
+# #+TITLE: Daljeet Singh
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+# #+AUTHOR: Daljeet Singh
+#+EMAIL: daljeet.singh123@gmail.com
+#+LANGUAGE:    ‘en’ 
 ** Contact Details 
-
-| *Name*        | Daljeet Singh                |
-| *Phone*       | +91-9910069813               |
-| *Email*       | daljeets@hcl.com             |
-| *Email 2*     | daljeet.singh123@gmail.com   |
-| *SAP ID*      | 51511961                     |
-| *Address*     | Indirapuram, Ghaziabaad (UP) |
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|        <r> |                              |
+|    *Name:* | Daljeet Singh                |
+|   *Phone:* | +91-9910069813               |
+|   *Email:* | daljeets@hcl.com             |
+| *Email 2:* | daljeet.singh123@gmail.com   |
+|  *SAP ID:* | 51511961                     |
+| *Address:* | Indirapuram, Ghaziabaad (UP) |
 
 ** Summary
 
@@ -29,7 +39,7 @@ I am a Functional Programming and  LISP(Clojure) Enthusiast.
 
 ** Experience:
 
- Total : 10 years 
+Total : 10 years 
 
 | *Company Name*               | *Start Data* | *End Data* | *Duration* |
 |------------------------------+--------------+------------+------------|
@@ -50,22 +60,22 @@ Human Resource Management System, with below  Features :
 4. Client Management
 
 **** Responsibilities
- 1. Code review and quality enhancement with following considerations
-    - Maintainability and preciseness of code  
-    - Scalability  
- 2. Training the team on TDD and Functional Programming
- 3. Setting up test case framework
- 4. Evaluation and classibfication of Bugs/Enhancements 
- 5. Coding the core areas, and performance enhancement
- 6. Managing git workflow. 
+1. Code review and quality enhancement with following considerations
+   - Maintainability and preciseness of code  
+   - Scalability  
+2. Training the team on TDD and Functional Programming
+3. Setting up test case framework
+4. Evaluation and classibfication of Bugs/Enhancements 
+5. Coding the core areas, and performance enhancement
+6. Managing git workflow. 
 
 **** Environment
- 1. MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
- 2. REST API development
- 3. With mongo DB backend
- 4. logging using jackson
- 5. jwt security
- 6. Test Driven Development using Mocha.
+1. MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
+2. REST API development
+3. With mongo DB backend
+4. logging using jackson
+5. jwt security
+6. Test Driven Development using Mocha.
 
 
 *** Pangea Analytics Platform
