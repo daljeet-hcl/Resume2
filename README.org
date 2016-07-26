@@ -1,14 +1,14 @@
 #+OPTIONS: toc:nil H:10 ':t
-
 #+LaTeX_HEADER: \usepackage{fsh_orgmode_cv}
-
+# #+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+# #+LaTeX_CLASS_OPTIONS: [letterpaper]
+# #+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
 # #+TITLE: Daljeet Singh
 
-* Personal Data
+* Daljeet Singh
  
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-
 |             <r> |                              |
 | Date of Birth : | 03-June-1982                 |
 |       Address : | Indirapuram, Ghaziabaad (UP) |
@@ -17,29 +17,30 @@
 |                 | daljeets@hcl.com             |
 
 * Work Experience:
-** Current JUL2014
-*Technical Lead at HCL Technologies* 
- Did Code Review of 9 people team, Nodejs REST API development
- MongoDb, ExpressJS framework.
-
-** MAY2013-JUL2014
-*Founder member of Bqurious Software LLC*
-Startup focusing on test automation for Android platform, innovated solutions for converting manual test to automated tests.
-
-** DEC2011-MAY2012
-*System Analyst at Skillnet Inc*
- Oracle /Store Inventory Management/ customization and Integration for Vodafone Romania, 
- onsite deployment for UAT.
-** JAN2011-NOV2011
-*Infogain India Private Limited*
- Oracle SIM customization and implementation
- Fedex POS kiosk, /Swing/ based application Development 
-** Aug2010-Dec2010
-*Software Engineer at BEBO Technologies*
- Worked On /GWT, Spring, Hibernate/ based Enterprise application 
-** JUL2006-Aug2010
-*Freelance Developer at Odesk*
-Developed /Java Swing/ and /J2ME/ games
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|             <r> |                                                                    |
+|         Current | *Technical Lead at HCL Technologies*                               |
+|         JUL2014 | Pride Global                                                       |
+|                 | Did Code Review of 9 people team, Nodejs REST API development      |
+|                 | MongoDb, ExpressJS framework.                                      |
+|                 | Center Of Excellence                                               |
+|                 | Research Filed 2 US patents.                                       |
+| MAY2013-JUL2014 | *Founder member of Bqurious Software LLC*                          |
+|                 | Product Development                                                |
+|                 | Startup focusing on test automation for Android platform,          |
+|                 | innovated solutions for converting manual test to automated tests. |
+| DEC2011-MAY2012 | *System Analyst at Skillnet Inc*                                   |
+|                 | Oracle Store Inventory Management                                  |
+|                 | customization and Integration for Vodafone Romania,                |
+|                 | onsite deployment for UAT.                                         |
+| JAN2011-NOV2011 | *Infogain India Private Limited*                                   |
+|                 | Oracle SIM customization and implementation                        |
+|                 | Fedex POS kiosk, /Swing/ based application Deve                    |
+| Aug2010-Dec2010 | *Software Engineer at BEBO Technologies*                           |
+|                 | Worked On /GWT, Spring, Hibernate/ based Enterprise application    |
+| JUL2006-Aug2010 | *Freelance Developer at Odesk*                                     |
+|                 | Developed /Java Swing/ and /J2ME/ games                            |
 
 * Education
 #+ATTR_HTML: :frame void
@@ -57,16 +58,6 @@ Developed /Java Swing/ and /J2ME/ games
 | April, 1998 | *Secondary school Examination*         |
 |             | Central Board of Secondary Education   |
 |             | 76%                                    |
-* Skills
-| <l>                       |                                                            |
-| *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
-| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
-| *Databases*               | Oracle 11g , MongoDb                                       |
-| *Technologies*            | J2EE, Swing, spring, hibernate                             |
-| *Application Servers*     | Weblogic, Tomcat, jetty                                    |
-| *Editors/IDE*             | Emacs, Vim, Eclipse                                        |
-| *Version Control Systems* | git, mercurial                                             |
-| *Diagramming Tools*       | PlantUML                                                   |
 * Projects
 
 ** PrideGlobal 
@@ -95,7 +86,6 @@ Developed /Java Swing/ and /J2ME/ games
 - jwt security
 - Test Driven Development using Mocha.
 
-
 ** Pangea Analytics Platform
 
 *** Responsibilities
@@ -103,14 +93,6 @@ Developed /Java Swing/ and /J2ME/ games
 - Deployment Diagrams using PlantUML
 - Managing a Hadoop Cluster.
 - Scala and Spark  
-
-** 4D Trajectory POC Aero Domain
-*** work
-- 2 patents filed, both patents sent for filing in US after filing in India last year.
-- 4d trajectory demo successfully completed using JavaScript and Google maps. 
-*** Environment
-     TypeScript, Javascript, Google Maps API
-
 
 ** Product development :
 developed a web driver for native application for the android platform. Also developed a recorder for recording all user interactions with a chosen application. All user interactions are mapped to predefined keywords. These keywords are converted to executable code at run-time using the data driven approach for user interface testing. 
