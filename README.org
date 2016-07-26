@@ -54,11 +54,17 @@ Total : 10 years
 ** Education
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|         <r> |                                                                                                         |
-|   May, 2006 | Bachelors of Technology(Computer Science and Engineering),   PTU(Punjab Technical University) Jalandhar |
-| April, 2000 | 12         CBSE Board                                                                                   |
-| April, 1998 | 10         CBSE Board                                                                                   |
-
+|         <r> |                                        |
+|   May, 2006 | *Bachelors of Technology*              |
+|             | Computer Science and Engineering       |
+|             | Punjab Technical University, Jalandhar |
+|             | 65%                                    |
+| April, 2000 | Higher Secondary ,                     |
+|             | Central Board Of Secondary Education   |
+|             | 62%                                    |
+| April, 1998 | Secondary school Examination           |
+|             | Central Board of Secondary Education   |
+|             | 76%                                    |
 ** Projects
 
 *** PrideGlobal 
