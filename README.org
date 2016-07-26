@@ -12,13 +12,13 @@
 ** Personal Data
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|                     <r> |                              |    
-| *Place/ Date of Birth:* |                              |   
-|                *Phone:* | +91-9910069813               |   
-|                *Email:* | daljeets@hcl.com             |   
-|              *Email 2:* | daljeet.singh123@gmail.com   |   
-|           *HCL SAP ID:* | 51511961                     |   
-|              *Address:* | Indirapuram, Ghaziabaad (UP) |   
+|              <r> |                              |
+| *Date of Birth:* | 03-June-1982                 |
+|         *Phone:* | +91-9910069813               |
+|         *Email:* | daljeets@hcl.com             |
+|       *Email 2:* | daljeet.singh123@gmail.com   |
+|    *HCL SAP ID:* | 51511961                     |
+|       *Address:* | Indirapuram, Ghaziabaad (UP) |
 
 ** Summary
 
@@ -52,10 +52,12 @@ Total : 10 years
 | *Freelance*                  | May 2006     | Dec 2010   |
 
 ** Education
-|         <r> |                                                       |
-|   May, 2006 | B.Tech.    PTU(Punjab Technical University) Jalandhar |
-| April, 2000 | 12         CBSE Board                                 |
-| April, 1998 | 10         CBSE Board                                 |
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|         <r> |                                                                                                         |
+|   May, 2006 | Bachelors of Technology(Computer Science and Engineering),   PTU(Punjab Technical University) Jalandhar |
+| April, 2000 | 12         CBSE Board                                                                                   |
+| April, 1998 | 10         CBSE Board                                                                                   |
 
 ** Projects
 
