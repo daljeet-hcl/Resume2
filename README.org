@@ -18,24 +18,28 @@
 
 * Work Experience:
 ** Current JUL2014
-*HCL Technologies*
+*Technical Lead at HCL Technologies* 
+ Did Code Review of 9 people team, Nodejs REST API development
+ MongoDb, ExpressJS framework.
+
 ** MAY2013-JUL2014
-*Bqurious Software*
+*Founder member of Bqurious Software LLC*
+Startup focusing on test automation for Android platform, innovated solutions for converting manual test to automated tests.
+
 ** DEC2011-MAY2012
-*Skillnet Inc*
+*System Analyst at Skillnet Inc*
+ Oracle /Store Inventory Management/ customization and Integration for Vodafone Romania, 
+ onsite deployment for UAT.
 ** JAN2011-NOV2011
 *Infogain India Private Limited*
-
-* Skills
-| <l>                       |                                                            |
-| *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
-| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
-| *Databases*               | Oracle 11g , MongoDb                                       |
-| *Technologies*            | J2EE, Swing, spring, hibernate                             |
-| *Application Servers*     | Weblogic, Tomcat, jetty                                    |
-| *Editors/IDE*             | Emacs, Vim, Eclipse                                        |
-| *Version Control Systems* | git, mercurial                                             |
-| *Diagramming Tools*       | PlantUML                                                   |
+ Oracle SIM customization and implementation
+ Fedex POS kiosk, /Swing/ based application Development 
+** Aug2010-Dec2010
+*Software Engineer at BEBO Technologies*
+ Worked On /GWT, Spring, Hibernate/ based Enterprise application 
+** JUL2006-Aug2010
+*Freelance Developer at Odesk*
+Developed /Java Swing/ and /J2ME/ games
 
 * Education
 #+ATTR_HTML: :frame void
@@ -53,6 +57,16 @@
 | April, 1998 | *Secondary school Examination*         |
 |             | Central Board of Secondary Education   |
 |             | 76%                                    |
+* Skills
+| <l>                       |                                                            |
+| *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
+| *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
+| *Databases*               | Oracle 11g , MongoDb                                       |
+| *Technologies*            | J2EE, Swing, spring, hibernate                             |
+| *Application Servers*     | Weblogic, Tomcat, jetty                                    |
+| *Editors/IDE*             | Emacs, Vim, Eclipse                                        |
+| *Version Control Systems* | git, mercurial                                             |
+| *Diagramming Tools*       | PlantUML                                                   |
 * Projects
 
 ** PrideGlobal 
