@@ -1,33 +1,32 @@
+#+OPTIONS: toc:nil H:10 ':t
+
+#+LaTeX_HEADER: \usepackage{fsh_orgmode_cv}
+
 # #+TITLE: Daljeet Singh
-#+OPTIONS: toc:nil H:10 tex:t
-#+STARTUP: hidestars indent
-#+LaTeX_HEADER: \usepackage{mycv}
-#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
-#+LaTeX_CLASS_OPTIONS: [letterpaper]
-#+LaTeX_HEADER: \usepackage{enumitem}
-#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
-# #+AUTHOR: Daljeet Singh
-#+EMAIL: daljeet.singh123@gmail.com
-#+LANGUAGE:    ‘en’ 
-** Personal Data
+
+* Personal Data
+ 
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|              <r> |                              |
-| *Date of Birth:* | 03-June-1982                 |
-|         *Phone:* | +91-9910069813               |
-|         *Email:* | daljeets@hcl.com             |
-|       *Email 2:* | daljeet.singh123@gmail.com   |
-|    *HCL SAP ID:* | 51511961                     |
-|       *Address:* | Indirapuram, Ghaziabaad (UP) |
 
-** Summary
+|             <r> |                              |
+| Date of Birth : | 03-June-1982                 |
+|       Address : | Indirapuram, Ghaziabaad (UP) |
+|         Phone : | +91-9910069813               |
+|         Email : | daljeet.singh123@gmail.com   |
+|                 | daljeets@hcl.com             |
 
-Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
+* Work Experience:
+** Current JUL2014
+*HCL Technologies*
+** MAY2013-JUL2014
+*Bqurious Software*
+** DEC2011-MAY2012
+*Skillnet Inc*
+** JAN2011-NOV2011
+*Infogain India Private Limited*
 
-He is a Clojure and Functional Programming Enthusiast. 
-
-** Skills
-
+* Skills
 | <l>                       |                                                            |
 | *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
 | *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
@@ -38,20 +37,7 @@ He is a Clojure and Functional Programming Enthusiast.
 | *Version Control Systems* | git, mercurial                                             |
 | *Diagramming Tools*       | PlantUML                                                   |
 
-** Experience:
-
-Total : 10 years 
-| <l>                          |              |            |
-| *Company Name*               | *Start Data* | *End Data* |
-|------------------------------+--------------+------------|
-| *HCL Technologies*           | July-2014    | current    |
-| *Bqurious Software*          | May-2013     | july 2014  |
-| *Skillnet Inc*               | Dec-2011     | May 2013   |
-| *Infogain India Pvt Limited* | Jan 2011     | Nov 2011   |
-| *Bebo Technologies*          | Aug-2010     | Dec2010    |
-| *Freelance*                  | May 2006     | Dec 2010   |
-
-** Education
+* Education
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
 |         <r> |                                        |
@@ -59,84 +45,88 @@ Total : 10 years
 |             | Computer Science and Engineering       |
 |             | Punjab Technical University, Jalandhar |
 |             | 65%                                    |
-| April, 2000 | Higher Secondary ,                     |
+|             |                                        |
+| April, 2000 | *Higher Secondary Examination*,        |
 |             | Central Board Of Secondary Education   |
 |             | 62%                                    |
-| April, 1998 | Secondary school Examination           |
+|             |                                        |
+| April, 1998 | *Secondary school Examination*         |
 |             | Central Board of Secondary Education   |
 |             | 76%                                    |
-** Projects
+* Projects
 
-*** PrideGlobal 
-Human Resource Management System, with below  Features :
-1. Requisition Management 
-2. Candidate Management
-3. Supplier Management 
-4. Client Management
+** PrideGlobal 
 
-**** Responsibilities
-1. Code review and quality enhancement with following considerations
-   - Maintainability and preciseness of code  
-   - Scalability  
-2. Training the team on TDD and Functional Programming
-3. Setting up test case framework
-4. Evaluation and classibfication of Bugs/Enhancements 
-5. Coding the core areas, and performance enhancement
-6. Managing git workflow. 
+*** Human Resource Management System, with below  Features :
+- Requisition Management 
+- Candidate Management
+- Supplier Management 
+- Client Management
 
-**** Environment
-1. MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
-2. REST API development
-3. With mongo DB backend
-4. logging using jackson
-5. jwt security
-6. Test Driven Development using Mocha.
+*** Responsibilities
+- Code review and quality enhancement with following considerations
+  - Maintainability and preciseness of code  
+  - Scalability  
+- Training the team on TDD and Functional Programming
+- Setting up test case framework
+- Evaluation and classibfication of Bugs/Enhancements 
+- Coding the core areas, and performance enhancement
+- Managing git workflow. 
+
+*** Environment
+- MEAN stack (mongoDB, expressJS, Angular and Nodejs ). 
+- REST API development
+- With mongo DB backend
+- logging using jackson
+- jwt security
+- Test Driven Development using Mocha.
 
 
-*** Pangea Analytics Platform
+** Pangea Analytics Platform
 
-**** Responsibilities
-1. REST APIs in Java/Spring boot
-2. Deployment Diagrams using PlantUML
-3. Managing a Hadoop Cluster.
-4. Scala and Spark  
+*** Responsibilities
+- REST APIs in Java/Spring boot
+- Deployment Diagrams using PlantUML
+- Managing a Hadoop Cluster.
+- Scala and Spark  
 
-*** 4D Trajectory POC Aero Domain
-1) 2 patents filed, both patents sent for filing in US after filing in India last year.
-2) 4d trajectory demo successfully completed using JavaScript and Google maps. 
-**** Environment
+** 4D Trajectory POC Aero Domain
+*** work
+- 2 patents filed, both patents sent for filing in US after filing in India last year.
+- 4d trajectory demo successfully completed using JavaScript and Google maps. 
+*** Environment
      TypeScript, Javascript, Google Maps API
 
 
-*** Product development :
+** Product development :
 developed a web driver for native application for the android platform. Also developed a recorder for recording all user interactions with a chosen application. All user interactions are mapped to predefined keywords. These keywords are converted to executable code at run-time using the data driven approach for user interface testing. 
 Developed cross platform installation utilities for signing and installing apps for testing purposes (for mac and windows)
 
-*** Onsite UAT  
+** Onsite UAT  
 at client site at Vodafone Romania
 Was deputed on-site for 2 months at Vodafone Romania for User Acceptance Testing for the Integration and customization of SIM with Oracle Inventory.
 
-**** Responsibilities:
+*** Responsibilities:
 As a System Analyst responsibilities included supporting migration of Data, Reconciliation of records, Debugging and resolving bugs related to Integration of SIM with Oracle Inventory. 
 
-**** Environment: 
+*** Environment: 
 Technologies:  Servlets, EJB, XML, SIM 13.2.1, Weblogic, Spring batch framework, quartz scheduler, Oracle ActiveMQ
 
-*** Fedex FPOS
+** Fedex FPOS
 It is a swing based KIOSK application with skinnable and resolution independent look and feel. The major work revolves around designing of screens using rich GUI features for kiosk.
 
-**** Responsibilities:
+*** Responsibilities:
 As a Sr. Software Engg. responsibilities include the analysis of requirements, coding, design document, designing of validation framework, designing of UI framework, R&D, Team mentoring and training.
 
-**** Environment:
+*** Environment:
 Technologies: Java, Swing , synth Look and Feel, MIG layout.
 
-*** GWT Widgets
+** GWT Widgets
 This work involved Building of widgets in GWT for an Enterprise Corporate Legal Software. The   widgets built had to be integrated with the provided web services and also integrated with already developed JSP pages.
 
-**** Responsibilities:
+*** Responsibilities:
 As a Software Engineer responsibilities include the analysis of requirements, design and architecture, coding, documentation, client interaction, designing of UI framework, R&D. 
 
-**** Environment:
+*** Environment:
 Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
 
