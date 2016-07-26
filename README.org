@@ -9,25 +9,26 @@
 # #+AUTHOR: Daljeet Singh
 #+EMAIL: daljeet.singh123@gmail.com
 #+LANGUAGE:    ‘en’ 
-** Contact Details 
+** Personal Data
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|        <r> |                              |
-|    *Name:* | Daljeet Singh                |
-|   *Phone:* | +91-9910069813               |
-|   *Email:* | daljeets@hcl.com             |
-| *Email 2:* | daljeet.singh123@gmail.com   |
-|  *SAP ID:* | 51511961                     |
-| *Address:* | Indirapuram, Ghaziabaad (UP) |
+|                     <r> |                              |    
+| *Place/ Date of Birth:* |                              |   
+|                *Phone:* | +91-9910069813               |   
+|                *Email:* | daljeets@hcl.com             |   
+|              *Email 2:* | daljeet.singh123@gmail.com   |   
+|           *HCL SAP ID:* | 51511961                     |   
+|              *Address:* | Indirapuram, Ghaziabaad (UP) |   
 
 ** Summary
 
 Highly talented persistent and accomplished IT professional offering 10 years of experience in object-oriented design principles, Functional Programming, application development. Posses significant experience in designing and implementing software solutions, capable of improving software design and quality by applying new software methodologies. Gifted with good team player and high motivation.  
 
-I am a Functional Programming and  LISP(Clojure) Enthusiast. 
+He is a Clojure and Functional Programming Enthusiast. 
 
 ** Skills
 
+| <l>                       |                                                            |
 | *Languages*               | Java,TypeScript, Java-script, Clojure, Scala, GWT, Android |
 | *Operating Systems*       | Red Hat Enterprise Linux / Arch linux                      |
 | *Databases*               | Oracle 11g , MongoDb                                       |
@@ -40,15 +41,21 @@ I am a Functional Programming and  LISP(Clojure) Enthusiast.
 ** Experience:
 
 Total : 10 years 
+| <l>                          |              |            |
+| *Company Name*               | *Start Data* | *End Data* |
+|------------------------------+--------------+------------|
+| *HCL Technologies*           | July-2014    | current    |
+| *Bqurious Software*          | May-2013     | july 2014  |
+| *Skillnet Inc*               | Dec-2011     | May 2013   |
+| *Infogain India Pvt Limited* | Jan 2011     | Nov 2011   |
+| *Bebo Technologies*          | Aug-2010     | Dec2010    |
+| *Freelance*                  | May 2006     | Dec 2010   |
 
-| *Company Name*               | *Start Data* | *End Data* | *Duration* |
-|------------------------------+--------------+------------+------------|
-| *HCL Technologies*           | July-2014    | current    | 2 years    |
-| *Bqurious Software*          | May-2013     | july 2014  | 1.5 years  |
-| *Skillnet Inc*               | Dec-2011     | May 2013   | 2 years    |
-| *Infogain India Pvt Limited* | Jan 2011     | Nov 2011   | 11 Months  |
-| *Bebo Technologies*          | Aug-2010     | Dec2010    | 4 months   |
-| *Freelance*                  | May 2006     | Dec 2010   | 4 years    |
+** Education
+|         <r> |                                                       |
+|   May, 2006 | B.Tech.    PTU(Punjab Technical University) Jalandhar |
+| April, 2000 | 12         CBSE Board                                 |
+| April, 1998 | 10         CBSE Board                                 |
 
 ** Projects
 
@@ -125,22 +132,3 @@ As a Software Engineer responsibilities include the analysis of requirements, de
 **** Environment:
 Technologies: Java, GWT(Google Web toolkit), jsp, servlets, spring, hibernate
 
-** Education
-
-| *Degree*  | *Board*                                    | *Year* | *Percentage* |
-|-----------+--------------------------------------------+--------+--------------|
-| *B.Tech.* | PTU(Punjab Technical University) Jalandhar |   2008 |         64.2 |
-| *12th*    | CBSE Board                                 |   2000 |           62 |
-| *10th*    | CBSE Board                                 |   1998 |           76 |
-
-** Personal Details
-| *Date of birth*   | 3rd June 1982                     |
-| *Nationality*     | Indian                            |
-| *Languages*       | English, Hindi, Punjabi           |
-
-** Hobbies 
-
-1) Takes keen interest in reading web-logs and articles related to computer science and information technology.
-2) lisp/clojure enthusiast
-3) Linux/emacs/vim freak 
-   # TODO this is a comment
