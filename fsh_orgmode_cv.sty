@@ -44,8 +44,8 @@
 
 \pagestyle{empty} % Removes page numbering
 
-%% Set all text's left skip
-\leftskip=0.17\textwidth
+%% commenting this out
+% \leftskip=0.17\textwidth % used to provide margin for paragraphs
 
 %% Config list
 \usepackage{enumitem}
@@ -59,7 +59,7 @@
   {
      \raggedleft{\Huge \@title}\\[.5in]
   }
-}
+ }
 
 %% Redefine Section Headings, etc.
 \titleformat{\section} %command
@@ -71,13 +71,25 @@
 \titlespacing{\section}{0pt}{10pt}{5pt}
 
 \titleformat{\subsection} %command
-            [leftmargin] %shape
-            {\normalsize\raggedleft} %format
+%            [leftmargin] %shape
+            {\Large\raggedright} %format
             {} %prefix number label
-            {0pt} %sep
+            {0em} %sep
             {} %before
-            [] %after
-\titlespacing{\subsection}
-            {0.15\textwidth}% max width of the title(for wrap/leftmargin shape)
-            {5pt}% vertical space before the title
-            {15pt}% separation between title and text
+            [] %after draw no rule
+\titlespacing{\subsection}{0pt}{2pt}{5pt}
+
+
+%\titleformat{\subsection\subsection} %command
+%            [leftmargin] %shape
+%            {\Large\raggedright} %format
+%            {} %prefix number label
+%            {0em} %sep
+%            {} %before
+%            [] %after draw no rule
+%\titlespacing{\subsection\subsection}{0pt}{5pt}{5pt}
+
+%\titlespacing{\subsection}
+%            {0.15\textwidth}% max width of the title(for wrap/leftmargin shape)
+%            {5pt}% vertical space before the title
+%            {15pt}% separation between title and text

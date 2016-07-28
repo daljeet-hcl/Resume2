@@ -6,40 +6,47 @@
 # #+TITLE: Daljeet Singh
 
 * Daljeet Singh
- 
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|             <r> |                              |
-| Date of Birth : | 03-June-1982                 |
-|       Address : | Indirapuram, Ghaziabaad (UP) |
-|         Phone : | +91-9910069813               |
-|         Email : | daljeet.singh123@gmail.com   |
-|                 | daljeets@hcl.com             |
+|       <r> |                              |
+|  Age/Sex: | 34/Male                      |
+| Address : | Indirapuram, Ghaziabaad (UP) |
+|   Phone : | +91-9910069813               |
+|   Email : | daljeet.singh123@gmail.com   |
+|           | daljeets@hcl.com             |
 
-* Work Experience:
+* Key Skills
+
+- Nodejs, Javascript, MongoDB
+- Android, J2me
+- Java, Spring, Hibernate
+- Clojure
+- 10 years
+
+* Work Experience
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
 |             <r> |                                                                    |
-|         Current | *Technical Lead at HCL Technologies*                               |
-|         JUL2014 | Pride Global                                                       |
-|                 | Did Code Review of 9 people team, Nodejs REST API development      |
-|                 | MongoDb, ExpressJS framework.                                      |
-|                 | Center Of Excellence                                               |
+|         Current | *Technical Lead, HCL Technologies*                                 |
+|         JUL2014 | *Pride Global*                                                     |
+|                 | Code Review of 9 people team, Nodejs REST API development          |
+|                 | MongoDb, ExpressJS                                                 |
+|                 | *HCL Practice*                                                     |
 |                 | Research Filed 2 US patents.                                       |
-| MAY2013-JUL2014 | *Founder member of Bqurious Software LLC*                          |
+| MAY2013-JUL2014 | *Founder member, Bqurious Software LLC*                            |
 |                 | Product Development                                                |
 |                 | Startup focusing on test automation for Android platform,          |
 |                 | innovated solutions for converting manual test to automated tests. |
-| DEC2011-MAY2012 | *System Analyst at Skillnet Inc*                                   |
+| DEC2011-MAY2013 | *System Analyst, Skillnet Inc*                                     |
 |                 | Oracle Store Inventory Management                                  |
 |                 | customization and Integration for Vodafone Romania,                |
 |                 | onsite deployment for UAT.                                         |
-| JAN2011-NOV2011 | *Infogain India Private Limited*                                   |
+| JAN2011-NOV2011 | *Sr Software Engineer, Infogain India Private Limited*             |
 |                 | Oracle SIM customization and implementation                        |
 |                 | Fedex POS kiosk, /Swing/ based application Deve                    |
-| Aug2010-Dec2010 | *Software Engineer at BEBO Technologies*                           |
+| Aug2010-Dec2010 | *Software Engineer,  BEBO Technologies*                            |
 |                 | Worked On /GWT, Spring, Hibernate/ based Enterprise application    |
-| JUL2006-Aug2010 | *Freelance Developer at Odesk*                                     |
+| JUL2006-Aug2010 | *Freelance Developer, Odesk*                                       |
 |                 | Developed /Java Swing/ and /J2ME/ games                            |
 
 * Education
