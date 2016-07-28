@@ -8,20 +8,20 @@
 * Daljeet Singh
 #+ATTR_HTML: :frame void
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|       <r> |                              |
-|  Age/Sex: | 34/Male                      |
-| Address : | Indirapuram, Ghaziabaad (UP) |
-|   Phone : | +91-9910069813               |
-|   Email : | daljeet.singh123@gmail.com   |
-|           | daljeets@hcl.com             |
+|          <r> |                              |
+| Age/Gender : | 34/Male/Single               |
+|    Address : | Indirapuram, Ghaziabaad (UP) |
+|      Phone : | +91-9910069813               |
+|      Email : | daljeet.singh123@gmail.com   |
+|              | daljeets@hcl.com             |
 
-* Key Skills
-
-- Nodejs, Javascript, MongoDB
-- Android, J2me
+* Key Skills / Executive Summary 
+10 years experience in Design and Development of Application using
+Open Source Software Stack using :
 - Java, Spring, Hibernate
-- Clojure
-- 10 years
+- Android /J2ME
+- Nodejs, JavaScript, MongoDB
+- Deployments on Red Hat Enterprize Linux  
 
 * Work Experience
 #+ATTR_HTML: :frame void
